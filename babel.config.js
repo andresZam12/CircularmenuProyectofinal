@@ -1,4 +1,5 @@
-export const presets = [ 
-   ['@babel/preset-env', { targets: { node: 'current' } }], 
-   '@babel/preset-react' // Soporte para JSX 
+export const presets = [
+  ['@babel/preset-env', { targets: { node: 'current' } }],
+  '@babel/preset-react' // Soporte para JSX
 ];
+
